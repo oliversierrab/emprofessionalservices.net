@@ -1,7 +1,7 @@
 ---
 title: EM Professional Services - Best Home Inspectors in South Florida
 description: Top-rated home inspectors in South Florida. Expert residential and commercial property inspections, mold assessments, termite inspections, and seawall evaluations. Licensed, insured, and certified with 20+ years of experience.
-image: https://picsum.photos/1200/600?random=1
+image: /assets/thumbnail.jpg
 ---
 
 # Best Home Inspectors in South Florida - EM Professional Services
