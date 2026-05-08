@@ -264,46 +264,67 @@
     }
     </script>
 
-    <!-- Review structured data -->
+    <!-- Organization structured data from archived website -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "Organization",
+        "@id": "https://www.emprofessionalservices.net/#organization",
         "name": "EM Professional Services",
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "reviewCount": "150",
-            "bestRating": "5",
-            "worstRating": "1"
+        "url": "https://www.emprofessionalservices.net",
+        "telephone": "+1-305-940-9190",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "17401 NW 2nd Avenue, Suite 104",
+            "addressLocality": "Miami Gardens",
+            "addressRegion": "FL",
+            "postalCode": "33169",
+            "addressCountry": "US"
         },
-        "review": [
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+1-305-940-9190",
+            "contactType": "customer service",
+            "availableLanguage": ["English", "Spanish"]
+        },
+        "founder": [
             {
-                "@type": "Review",
-                "author": {
-                    "@type": "Person",
-                    "name": "Maria Rodriguez"
-                },
-                "reviewRating": {
-                    "@type": "Rating",
-                    "ratingValue": "5",
-                    "bestRating": "5"
-                },
-                "reviewBody": "Excellent home inspection service in Miami. Very thorough and professional. Highly recommend EM Professional Services for anyone buying a home in South Florida."
+                "@type": "Person",
+                "name": "Efrain Martinez",
+                "jobTitle": "President/Co-Founder Managing Partner"
             },
             {
-                "@type": "Review",
-                "author": {
-                    "@type": "Person",
-                    "name": "John Smith"
-                },
-                "reviewRating": {
-                    "@type": "Rating",
-                    "ratingValue": "5",
-                    "bestRating": "5"
-                },
-                "reviewBody": "Best home inspectors in Florida! They found issues our real estate agent missed. Detailed report with photos and clear explanations. Great bilingual service too."
+                "@type": "Person",
+                "name": "Juliana Martinez",
+                "jobTitle": "Vice President/Co-Founder Managing Partner"
             }
+        ],
+        "employee": [
+            {
+                "@type": "Person",
+                "name": "Erica Bailly",
+                "jobTitle": "Office Manager Inspection Coordinator"
+            },
+            {
+                "@type": "Person",
+                "name": "Alan Sierra",
+                "jobTitle": "Quality Assurance Specialist Inspection Report Writer"
+            }
+        ],
+        "knowsAbout": [
+            "Insurance Inspections",
+            "Real Estate Inspections",
+            "Commercial Inspections",
+            "Renters Inspections",
+            "Sea-Wall Inspections",
+            "Mold Inspections & Assessments",
+            "Sewer Camera Inspections",
+            "Termite & WDO Inspections"
+        ],
+        "sameAs": [
+            "https://www.linkedin.com/company/em-inspections",
+            "https://www.facebook.com/emproinspections/",
+            "https://www.instagram.com/em_inspections/"
         ]
     }
     </script>
