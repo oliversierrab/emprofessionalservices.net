@@ -1,18 +1,48 @@
 ---
-title: EM Professional Services - Best Home Inspectors in South Florida
-description: Top-rated home inspectors in South Florida. Expert residential and commercial property inspections, mold assessments, termite inspections, and seawall evaluations. Licensed, insured, and certified with 20+ years of experience.
+title: EM Professional Services - Trusted South Florida Property Inspectors Since 2004
+description: Trusted South Florida property inspectors since 2004. Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspections. Call or text (305) 940-9190.
 image: /assets/thumbnail.jpg
 ---
 
-# Best Home Inspectors in South Florida - EM Professional Services
+# Trusted South Florida Property Inspectors Since 2004
 
-Trusted home inspectors in Miami, Fort Lauderdale, and throughout South Florida. Expert residential and commercial property inspections, mold assessments, termite inspections, and seawall evaluations. Licensed, insured, and certified with 20+ years of experience. Se habla espanol.
+Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspections performed by licensed, certified professionals serving Miami-Dade, Broward, Palm Beach, and surrounding South Florida communities. Se habla espanol.
 
-[Call (305) 940-9190](tel:+13059409190)
+[Call (305) 940-9190](tel:+13059409190)  
+[Text (305) 940-9190](sms:+13059409190)  
+[Email info@emprofessionalservices.net](mailto:info@emprofessionalservices.net)
+
+<!-- TODO: Add WhatsApp link after the client confirms the correct WhatsApp number. -->
+
+Serving South Florida since 2004 | Licensed GC | Civil Engineer | Certified Mold Assessor | Bilingual Team | Fast reports
+
+## Property Inspection Support for Every Step
+
+Different clients need different answers. EM Professional Services helps buyers, agents, owners, and property managers get clear inspection reports and practical next steps.
+
+### For Home Buyers
+
+Know what you are buying before you close with a detailed inspection report, photos, and clear findings.
+
+### For Realtors
+
+Get professional scheduling, bilingual communication, and reports that help clients understand the property without unnecessary confusion.
+
+### For Insurance Inspections
+
+Schedule 4-point, wind mitigation, roof certification, elevation certificate coordination, and other insurance-related inspections.
+
+### For Mold / IAQ Concerns
+
+Document moisture, air quality, and mold concerns with certified assessment experience and Docusketch reporting.
+
+### For Commercial Properties
+
+Support offices, retail spaces, industrial properties, property managers, and investors with building-focused inspection expertise.
 
 ## Professional Home Inspection Services in South Florida
 
-As the leading home inspectors in Florida, EM Professional Services provides comprehensive property inspections throughout Miami, Miami Gardens, Fort Lauderdale, and surrounding areas. Our certified inspectors deliver detailed reports for peace of mind.
+EM Professional Services provides comprehensive property inspections throughout Miami, Miami Gardens, Fort Lauderdale, Palm Beach, and surrounding areas. Our certified inspectors deliver clear reports for real estate, insurance, commercial, mold, WDO, seawall, and sewer camera needs.
 
 ### Insurance Property Inspections
 
@@ -40,7 +70,7 @@ Certified mold inspection services in Florida. Professional mold testing, air qu
 
 ### Sewer Camera Inspections
 
-Advanced sewer line inspections using state-of-the-art camera technology in South Florida. Non-invasive pipe inspections for residential and commercial properties in Miami area.
+Advanced sewer line inspections using camera technology in South Florida. Non-invasive pipe inspections for residential and commercial properties in Miami area.
 
 ### Termite & WDO Inspections
 
@@ -53,12 +83,13 @@ EM Professional Services is backed by industry-leading credentials and trusted i
 - Certified Master Inspector (CMI)
 - InterNACHI Certified
 - Florida DBPR Licensed General Contractor
+- Florida DBPR Mold Assessor
 - IICRC Certified
 - Licensed and insured
 
 ## Meet Our Certified Home Inspectors in South Florida
 
-Our team of licensed and certified home inspectors in Florida brings over 20 years of combined experience in property inspections, mold assessment, and building science. We serve Miami, Fort Lauderdale, and all of South Florida with professional, reliable inspection services.
+Our licensed and certified team has served South Florida since 2004 with professional property inspections, mold assessment, and building science experience. We serve Miami, Fort Lauderdale, and all of South Florida with reliable inspection services and bilingual support.
 
 ### Efrain Martinez
 
@@ -76,38 +107,45 @@ Office Manager & Inspection Coordinator. Customer Service Excellence, Bilingual 
 
 Quality Assurance Specialist. Report Writing & Technical Analysis.
 
-## Contact the Best Home Inspectors in South Florida
+## Contact EM Professional Services
 
 Serving Miami, Miami Gardens, Fort Lauderdale, Coral Springs, Pembroke Pines, Hialeah, Kendall, and all of South Florida. Licensed, insured, and certified home inspection professionals ready to help with your property inspection needs.
 
-### Phone - Home Inspection Services
+### Phone & Messaging
 
-[(305) 940-9190](tel:+13059409190)
+[(305) 940-9190](tel:+13059409190)  
+[Text us](sms:+13059409190)  
 
-Call for free consultation and quote.
+<!-- TODO: Add WhatsApp link after the client confirms the correct WhatsApp number. -->
 
-### Location - South Florida Office
+### Email
+
+[info@emprofessionalservices.net](mailto:info@emprofessionalservices.net)
+
+### Location
 
 [17401 NW 2nd Avenue, Suite 104, Miami Gardens, FL 33169](https://www.google.com/maps/place/EM+Professional+Services/@25.9345234,-80.2045703,15z/data=!4m6!3m5!1s0x88d9adafcb36e4b7:0xc5843de27c76346a!8m2!3d25.9345234!4d-80.2045703!16s%2Fg%2F1tdg400k?entry=ttu)
 
-Serving all of South Florida.
+### Hours
 
-### Languages - Bilingual Support
+Monday-Friday: 8 AM-5 PM  
+Saturday: 9 AM-1 PM  
+Sunday: Closed
 
-English & Espanol. Se habla espanol.
+### Review Us / See Our Reviews
 
-Professional bilingual home inspection services.
+- [Google Reviews](https://g.page/r/CWo0dnziPYTFEAE/review)
+- [Write a Yelp Review](https://www.yelp.com/writeareview/biz/LfNH_WBkEqYYVrPHxz9oEA?review_origin=review-feed-war-widget)
 
 ## Why Choose EM Professional Services?
 
-- Licensed & certified home inspectors in Florida
-- 20+ years combined experience
-- Comprehensive property inspections
-- Detailed reports with photos
-- Bilingual service in English and Spanish
-- Serving all South Florida areas
-- Fast, reliable service
-- Competitive pricing
+- Licensed and certified Florida property inspectors
+- Serving South Florida since 2004
+- Led by a licensed General Contractor and Civil Engineer
+- Certified mold assessment and building science expertise
+- Clear reports with photos, findings, and practical recommendations
+- Bilingual communication for buyers, sellers, agents, and property managers
+- Fast reports for time-sensitive real estate and insurance needs
 
 ## Social Profiles
 
@@ -128,11 +166,11 @@ Yes, EM Professional Services is fully licensed and certified. Our lead inspecto
 
 ### What types of property inspections do you offer?
 
-We offer comprehensive home inspection services including residential inspections, commercial property inspections, mold assessments, termite inspections, seawall inspections, sewer camera inspections, and insurance-related property evaluations.
+We offer comprehensive home inspection services including residential inspections, commercial property inspections, mold assessments, termite and WDO inspections, seawall inspections, sewer camera inspections, and insurance-related property evaluations.
 
 ### How much does a home inspection cost in South Florida?
 
-Home inspection costs vary based on property size, type, and specific services needed. Contact us at (305) 940-9190 for a free quote. We provide competitive pricing for professional home inspection services in the Miami area.
+Home inspection costs vary based on property size, type, and specific services needed. Contact us at (305) 940-9190 for a free quote.
 
 ### Do you provide bilingual home inspection services?
 

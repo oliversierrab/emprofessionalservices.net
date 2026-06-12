@@ -66,11 +66,11 @@ nav {
 }
 
 .hero {
-    background: linear-gradient(rgba(0,123,255,0.8), rgba(0,123,255,0.8)), url('assets/2-Real-Estate-Inspectionsjpg_0959_lg.jpg');
+    background: linear-gradient(rgba(40,34,31,0.78), rgba(40,34,31,0.78)), url('assets/2-Real-Estate-Inspectionsjpg_0959_lg.jpg');
     background-size: cover;
     background-position: center;
     color: var(--white);
-    padding: 2rem;
+    padding: 3rem 2rem;
     text-align: center;
 }
 
@@ -99,16 +99,38 @@ nav {
     background-color: var(--dark-color);
 }
 
+.secondary-button {
+    background-color: var(--white);
+    color: var(--primary-color);
+}
+
+.secondary-button:hover {
+    background-color: var(--light-color);
+    color: var(--dark-color);
+}
+
+.hero-actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+}
+
 .call-button {
     display: inline-flex;
     flex-direction: column;
     align-items: center;
-    padding: 1rem 2rem;
+    justify-content: center;
+    min-width: 360px;
+    padding: 1.15rem 2.75rem;
     background-color: var(--primary-color);
     color: var(--white);
     text-decoration: none;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border: 1px solid rgba(255,255,255,0.18);
+    border-radius: 16px;
+    box-shadow: 0 16px 34px rgba(0,0,0,0.32), 0 3px 8px rgba(0,0,0,0.22);
     font-size: 1.1rem;
     font-weight: bold;
     text-align: center;
@@ -117,7 +139,7 @@ nav {
 .call-button:hover {
     background-color: var(--dark-color);
     transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    box-shadow: 0 20px 42px rgba(0,0,0,0.38), 0 4px 10px rgba(0,0,0,0.24);
 }
 
 .text-call {
@@ -136,6 +158,23 @@ nav {
     opacity: 0.9;
 }
 
+.trust-strip {
+    display: flex;
+    justify-content: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.trust-strip span {
+    border: 1px solid rgba(255,255,255,0.35);
+    border-radius: 999px;
+    background: rgba(255,255,255,0.12);
+    padding: 0.45rem 0.8rem;
+    font-size: 0.95rem;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -146,10 +185,15 @@ nav {
     background-color: var(--light-color);
 }
 
+.audiences {
+    background-color: var(--white);
+}
+
 .certifications {
     background-color: #ffffff;
 }
 
+.audiences h2,
 .services h2,
 .certifications h2,
 .team h2,
@@ -159,6 +203,7 @@ nav {
     color: var(--primary-color);
 }
 
+.audiences p,
 .services p,
 .certifications p,
 .team p,
@@ -166,6 +211,30 @@ nav {
     text-align: center;
     max-width: 900px;
     margin: 0 auto 2rem;
+}
+
+.audience-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.audience-card {
+    border: 1px solid rgba(40,34,31,0.12);
+    border-radius: 8px;
+    padding: 1.25rem;
+    background: var(--white);
+}
+
+.audience-card h3 {
+    color: var(--primary-color);
+    margin-top: 0;
+}
+
+.audience-card p {
+    text-align: left;
+    margin: 0;
 }
 
 .services-grid {
@@ -305,6 +374,19 @@ nav {
     text-align: center;
 }
 
+.contact a {
+    color: var(--white);
+    font-weight: bold;
+}
+
+.contact .secondary-button {
+    color: var(--primary-color);
+}
+
+.contact .secondary-button:hover {
+    color: var(--dark-color);
+}
+
 .contact-info {
     display: flex;
     justify-content: center;
@@ -323,6 +405,32 @@ nav {
 
 .contact-item p {
     margin: 0.5rem 0;
+}
+
+.review-links {
+    margin-top: 2.5rem;
+    text-align: center;
+}
+
+.review-links .btn {
+    margin: 0.35rem;
+}
+
+.why-choose {
+    margin-top: 2.5rem;
+    text-align: center;
+}
+
+.why-choose ul {
+    display: inline-block;
+    max-width: 760px;
+    margin: 1rem auto 0;
+    padding-left: 1.2rem;
+    text-align: left;
+}
+
+.why-choose li {
+    margin-bottom: 0.5rem;
 }
 
 footer {
@@ -376,9 +484,28 @@ footer {
         font-size: 1rem;
     }
 
+    .hero-actions {
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .hero-actions .btn {
+        width: 100%;
+    }
+
+    .call-button {
+        min-width: 0;
+    }
+
     .services-grid,
-    .team-grid,
-    .contact-info {
+    .audience-grid,
+    .team-grid {
         grid-template-columns: 1fr;
+    }
+
+    .contact-info {
+        align-items: center;
+        flex-direction: column;
+        gap: 1.5rem;
     }
 }
