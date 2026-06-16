@@ -84,7 +84,7 @@ Suggested future city list to confirm:
 
 ## Contact & Scheduling
 
-- Confirmed calls/texts: (305) 940-9190. Confirmed WhatsApp: +1 (786) 426-9418.
+- Confirmed calls: (305) 940-9190. Confirmed texts/WhatsApp: +1 (786) 426-9418.
 - Confirmed official email for leads and document uploads: info@emprofessionalservices.net.
 - Confirm whether there is an online scheduling link or form to add.
 - Confirm whether customers should send reports, photos, or documents by email, text, WhatsApp, or another channel.

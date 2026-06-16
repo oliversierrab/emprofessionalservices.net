@@ -1,6 +1,6 @@
 ---
 title: EM Professional Services - Trusted South Florida Property Inspectors Since 2006
-description: Trusted South Florida property inspectors since 2006. Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspections. Call or text (305) 940-9190.
+description: Trusted South Florida property inspectors since 2006. Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspections. Call (305) 940-9190 or text (786) 426-9418.
 image: /assets/thumbnail.jpg
 ---
 
@@ -9,7 +9,7 @@ image: /assets/thumbnail.jpg
 Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspections performed by licensed, certified professionals serving Miami-Dade, Broward, Palm Beach, and surrounding South Florida communities. Se habla espanol.
 
 [Call (305) 940-9190](tel:+13059409190)  
-[Text (305) 940-9190](sms:+13059409190)  
+[Text (786) 426-9418](sms:+17864269418)
 [WhatsApp (786) 426-9418](https://wa.me/17864269418)
 [Email info@emprofessionalservices.net](mailto:info@emprofessionalservices.net)
 
@@ -113,7 +113,7 @@ Serving Miami, Miami Gardens, Fort Lauderdale, Coral Springs, Pembroke Pines, Hi
 ### Phone & Messaging
 
 [(305) 940-9190](tel:+13059409190)  
-[Text us](sms:+13059409190)  
+[Text (786) 426-9418](sms:+17864269418)
 [WhatsApp (786) 426-9418](https://wa.me/17864269418)
 
 ### Email
