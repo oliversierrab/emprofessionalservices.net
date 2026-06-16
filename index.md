@@ -1,20 +1,19 @@
 ---
-title: EM Professional Services - Trusted South Florida Property Inspectors Since 2004
-description: Trusted South Florida property inspectors since 2004. Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspections. Call or text (305) 940-9190.
+title: EM Professional Services - Trusted South Florida Property Inspectors Since 2006
+description: Trusted South Florida property inspectors since 2006. Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspections. Call (305) 940-9190 or text (786) 426-9418.
 image: /assets/thumbnail.jpg
 ---
 
-# Trusted South Florida Property Inspectors Since 2004
+# Trusted South Florida Property Inspectors Since 2006
 
 Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspections performed by licensed, certified professionals serving Miami-Dade, Broward, Palm Beach, and surrounding South Florida communities. Se habla espanol.
 
 [Call (305) 940-9190](tel:+13059409190)  
-[Text (305) 940-9190](sms:+13059409190)  
+[Text (786) 426-9418](sms:+17864269418)
+[WhatsApp (786) 426-9418](https://wa.me/17864269418)
 [Email info@emprofessionalservices.net](mailto:info@emprofessionalservices.net)
 
-<!-- TODO: Add WhatsApp link after the client confirms the correct WhatsApp number. -->
-
-Serving South Florida since 2004 | Licensed GC | Civil Engineer | Certified Mold Assessor | Bilingual Team | Fast reports
+Serving South Florida since 2006 | 80,000+ inspections completed | Licensed GC | Civil Engineer | Certified Mold Assessor | Bilingual Team | Fast reports
 
 ## Property Inspection Support for Every Step
 
@@ -89,7 +88,7 @@ EM Professional Services is backed by industry-leading credentials and trusted i
 
 ## Meet Our Certified Home Inspectors in South Florida
 
-Our licensed and certified team has served South Florida since 2004 with professional property inspections, mold assessment, and building science experience. We serve Miami, Fort Lauderdale, and all of South Florida with reliable inspection services and bilingual support.
+Our licensed and certified team has served South Florida since 2006 with professional property inspections, mold assessment, and building science experience. We serve Miami, Fort Lauderdale, and all of South Florida with reliable inspection services and bilingual support.
 
 ### Efrain Martinez
 
@@ -114,9 +113,8 @@ Serving Miami, Miami Gardens, Fort Lauderdale, Coral Springs, Pembroke Pines, Hi
 ### Phone & Messaging
 
 [(305) 940-9190](tel:+13059409190)  
-[Text us](sms:+13059409190)  
-
-<!-- TODO: Add WhatsApp link after the client confirms the correct WhatsApp number. -->
+[Text (786) 426-9418](sms:+17864269418)
+[WhatsApp (786) 426-9418](https://wa.me/17864269418)
 
 ### Email
 
@@ -140,7 +138,8 @@ Sunday: Closed
 ## Why Choose EM Professional Services?
 
 - Licensed and certified Florida property inspectors
-- Serving South Florida since 2004
+- Serving South Florida since 2006
+- 80,000+ inspections completed
 - Led by a licensed General Contractor and Civil Engineer
 - Certified mold assessment and building science expertise
 - Clear reports with photos, findings, and practical recommendations
