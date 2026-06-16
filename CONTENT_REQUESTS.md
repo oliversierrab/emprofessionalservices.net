@@ -24,10 +24,10 @@ We updated the homepage with the confirmed business information we already have.
 
 ## Claims To Confirm
 
-- Can we publish "70,000+ inspections performed"?
+- Confirmed: publish "80,000+ inspections completed".
 - Can we publish "same-day reports" or should we only say "fast reports"?
 - Are there guaranteed turnaround times by service type?
-- Should we say "20+ years in business" or only "Serving South Florida since 2004"?
+- Confirmed: say "Serving South Florida since 2006".
 - Are there any awards, licenses, certifications, or memberships not currently listed?
 
 ## Service Details
@@ -84,8 +84,8 @@ Suggested future city list to confirm:
 
 ## Contact & Scheduling
 
-- Confirm the official phone number for calls, texts, and WhatsApp.
-- Confirm the official email for leads and document uploads.
+- Confirmed calls/texts: (305) 940-9190. Confirmed WhatsApp: +1 (786) 426-9418.
+- Confirmed official email for leads and document uploads: info@emprofessionalservices.net.
 - Confirm whether there is an online scheduling link or form to add.
 - Confirm whether customers should send reports, photos, or documents by email, text, WhatsApp, or another channel.
 - Confirm business hours for holidays or emergency requests, if applicable.
