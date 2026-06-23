@@ -361,11 +361,12 @@ nav {
 }
 
 .team-member img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    width: min(100%, 330px);
+    aspect-ratio: 1;
+    height: auto;
+    border-radius: 18px;
     object-fit: cover;
-    margin-bottom: 1rem;
+    margin-bottom: 1.25rem;
 }
 
 .contact {

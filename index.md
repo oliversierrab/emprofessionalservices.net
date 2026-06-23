@@ -106,6 +106,22 @@ Office Manager & Inspection Coordinator. Customer Service Excellence, Bilingual 
 
 Quality Assurance Specialist. Report Writing & Technical Analysis.
 
+### Eduardo Taurinan
+
+Home Inspector HI1302. Mold Assessor MRSA2378.
+
+### Eddy Taurinan
+
+Home Inspector HI4509. Mold Assessor MRSA2393.
+
+### Juan Saldarriaga
+
+Home Inspector HI 11884. Mold Assessor MRSA4438.
+
+### Luis Legia
+
+Home Inspector HI 15495.
+
 ## Contact EM Professional Services
 
 Serving Miami, Miami Gardens, Fort Lauderdale, Coral Springs, Pembroke Pines, Hialeah, Kendall, and all of South Florida. Licensed, insured, and certified home inspection professionals ready to help with your property inspection needs.
