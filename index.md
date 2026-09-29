@@ -138,7 +138,7 @@ Serving Miami, Miami Gardens, Fort Lauderdale, Coral Springs, Pembroke Pines, Hi
 
 ### Location
 
-[17401 NW 2nd Avenue, Suite 104, Miami Gardens, FL 33169](https://www.google.com/maps/place/EM+Professional+Services/@25.9345234,-80.2045703,15z/data=!4m6!3m5!1s0x88d9adafcb36e4b7:0xc5843de27c76346a!8m2!3d25.9345234!4d-80.2045703!16s%2Fg%2F1tdg400k?entry=ttu)
+[2980 NE 207th ST, Suite 300 Aventura FL 33180](https://www.google.com/maps/place/2980+NE+207th+St+Ste+300,+Aventura,+FL+33180/@25.9668516,-80.1448663,17z)
 
 ### Hours
 
@@ -167,7 +167,7 @@ Sunday: Closed
 - [LinkedIn](https://www.linkedin.com/company/em-inspections)
 - [Facebook](https://www.facebook.com/emproinspections/)
 - [Instagram](https://www.instagram.com/em_inspections/)
-- [Google Maps](https://www.google.com/maps/place/EM+Professional+Services/@25.9345234,-80.2045703,15z/data=!4m6!3m5!1s0x88d9adafcb36e4b7:0xc5843de27c76346a!8m2!3d25.9345234!4d-80.2045703!16s%2Fg%2F1tdg400k?entry=ttu)
+- [Google Maps](https://www.google.com/maps/place/2980+NE+207th+St+Ste+300,+Aventura,+FL+33180/@25.9668516,-80.1448663,17z)
 
 ## Frequently Asked Questions
 

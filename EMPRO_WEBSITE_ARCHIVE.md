@@ -2,7 +2,7 @@
 
 **Archived:** December 24, 2025 (from Wayback Machine)
 
-**Location:** 17401 NW 2nd Avenue, Suite 104, Miami Gardens, FL 33169  
+**Location:** 2980 NE 207th ST, Suite 300 Aventura FL 33180  
 **Phone:** (305) 940-9190  
 **Website:** emprofessionalservices.net
 
@@ -343,9 +343,9 @@ Sea-Walls Inspections – South Florida
 Led by industry professionals with extensive experience in coastal engineering and marine construction, our team delivers meticulous inspections tailored to Seawall maintenance and preservation challenges. From visual assessments to advanced testing techniques, we employ state-of-the-art methods to identify potential issues and recommend effective solutions.
 (305)-940-9190
 Se habla español
-17401 NW 2nd Avenue, suite 104
-Miami Gardens, FL
-33169
+2980 NE 207th ST, Suite 300
+Aventura, FL
+33180
 USA
 305-940-9190
 •
@@ -455,9 +455,9 @@ Our sewer camera inspections utilize state-of-the-art technology to assess the c
 Our non-invasive approach saves you time and money by pinpointing the exact location and nature of the problem without requiring extensive excavation. Our team of skilled technicians carefully analyzes the real-time footage, allowing them to diagnose the issue accurately and recommend the most appropriate solutions for your specific needs.
 (305)-940-9190
 Se habla español
-17401 NW 2nd Avenue, suite 104
-Miami Gardens, FL
-33169
+2980 NE 207th ST, Suite 300
+Aventura, FL
+33180
 USA
 305-940-9190
 •
@@ -564,9 +564,9 @@ Efrain Martinez President/Co-Founder Managing Partner
 Juliana Martinez Vice President/Co-Founder Managing Partner
 Erica Bailly Office Manager Inspection Coordinator
 Alan Sierra Quality Assurance Specialist Inspection Report Writer
-17401 NW 2nd Avenue, suite 104
-Miami Gardens, FL
-33169
+2980 NE 207th ST, Suite 300
+Aventura, FL
+33180
 USA
 305-940-9190
 •
@@ -581,8 +581,8 @@ Our companies
 **EM Professional Services**
 
 **Address:**  
-17401 NW 2nd Avenue, Suite 104  
-Miami Gardens, FL 33169
+2980 NE 207th ST, Suite 300  
+Aventura FL 33180
 
 **Phone:** (305) 940-9190
 
