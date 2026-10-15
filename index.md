@@ -96,7 +96,7 @@ President & Co-Founder. Licensed General Contractor, Civil Engineer, CMI Certifi
 
 ### Juliana Martinez
 
-Vice President & Co-Founder. InterNACHI Certified Inspector, Mold Assessment Specialist.
+Vice President & Co-Founder.
 
 ### Erica Bailly
 
