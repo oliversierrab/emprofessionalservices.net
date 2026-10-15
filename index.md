@@ -92,15 +92,11 @@ Our licensed and certified team has served South Florida since 2006 with profess
 
 ### Efrain Martinez
 
-President & Co-Founder. Licensed General Contractor, Civil Engineer, CMI Certified Master Inspector.
+President & Co-Founder. President & Co-Founder. Building Consultant. Residential & Commercial Inspections. Mold, IAQ, Environmental Assessments
 
 ### Juliana Martinez
 
-Vice President & Co-Founder. InterNACHI Certified Inspector, Mold Assessment Specialist.
-
-### Erica Bailly
-
-Office Manager & Inspection Coordinator. Customer Service Excellence, Bilingual Support.
+Vice President & Co-Founder.
 
 ### Alan Sierra
 
