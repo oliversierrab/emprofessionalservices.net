@@ -39,6 +39,18 @@ Document moisture, air quality, and mold concerns with certified assessment expe
 
 Support offices, retail spaces, industrial properties, property managers, and investors with building-focused inspection expertise.
 
+### For Landlords & Tenants
+
+Document property condition with move-in and move-out inspections that protect both sides at lease start and lease end.
+
+### For Waterfront & Coastal Properties
+
+Assess seawalls, docks, and coastal exposure with inspections focused on the conditions that affect South Florida waterfront buildings.
+
+### For New Construction Buyers
+
+Walk through your new home with an independent licensed General Contractor and get a documented punch list before closing and before the builder warranty expires.
+
 ## Professional Home Inspection Services in South Florida
 
 EM Professional Services provides comprehensive property inspections throughout Miami, Miami Gardens, Fort Lauderdale, Palm Beach, and surrounding areas. Our certified inspectors deliver clear reports for real estate, insurance, commercial, mold, WDO, seawall, and sewer camera needs.
@@ -74,6 +86,10 @@ Advanced sewer line inspections using camera technology in South Florida. Non-in
 ### Termite & WDO Inspections
 
 Comprehensive termite inspections and wood-destroying organism assessments in Florida. Licensed pest inspectors providing treatment recommendations and prevention strategies for South Florida homes.
+
+### Replacement Cost Valuation
+
+Detailed replacement cost estimates for residential and commercial buildings in South Florida. Prepared by a licensed General Contractor using current local construction costs, for insurance, financing, and planning decisions.
 
 ## Certifications & Industry Credentials
 
@@ -117,6 +133,10 @@ Home Inspector HI 11884. Mold Assessor MRSA4438.
 ### Yoandy Arencibia
 
 Home Inspector HI 17604. Mold Assessor MRSA 5722.
+
+### Alejandro Garcia
+
+Home Inspector HI 19017.
 
 ## Contact EM Professional Services
 

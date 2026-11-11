@@ -308,6 +308,7 @@ nav {
 }
 
 .service-card p {
+    text-align: left;
     margin: 0 1.5rem 1.5rem;
     color: var(--dark-color);
     flex-grow: 1;
@@ -343,6 +344,10 @@ nav {
 
 .service-termite .service-image {
     background-image: url('assets/7-Termite---WDO-Inspectionsjpg_67f7_lg.webp');
+}
+
+.service-replacement-cost .service-image {
+    background-image: url('assets/6-Replacement-Cost-Valuationjpg_fd91_lg.webp');
 }
 
 .team {
