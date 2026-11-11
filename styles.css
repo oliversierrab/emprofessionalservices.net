@@ -345,6 +345,10 @@ nav {
     background-image: url('assets/7-Termite---WDO-Inspectionsjpg_67f7_lg.webp');
 }
 
+.service-replacement-cost .service-image {
+    background-image: url('assets/6-Replacement-Cost-Valuationjpg_fd91_lg.webp');
+}
+
 .team {
     background-color: var(--white);
 }

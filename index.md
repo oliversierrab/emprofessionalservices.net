@@ -87,6 +87,10 @@ Advanced sewer line inspections using camera technology in South Florida. Non-in
 
 Comprehensive termite inspections and wood-destroying organism assessments in Florida. Licensed pest inspectors providing treatment recommendations and prevention strategies for South Florida homes.
 
+### Replacement Cost Valuation
+
+Detailed replacement cost estimates for residential and commercial buildings in South Florida. Prepared by a licensed General Contractor using current local construction costs, for insurance, financing, and planning decisions.
+
 ## Certifications & Industry Credentials
 
 EM Professional Services is backed by industry-leading credentials and trusted inspection certifications for South Florida property inspections.
