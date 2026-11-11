@@ -118,6 +118,10 @@ Home Inspector HI 11884. Mold Assessor MRSA4438.
 
 Home Inspector HI 17604. Mold Assessor MRSA 5722.
 
+### Alejandro Garcia
+
+Home Inspector HI 19017.
+
 ## Contact EM Professional Services
 
 Serving Miami, Miami Gardens, Fort Lauderdale, Coral Springs, Pembroke Pines, Hialeah, Kendall, and all of South Florida. Licensed, insured, and certified home inspection professionals ready to help with your property inspection needs.
