@@ -13,7 +13,7 @@ Residential, commercial, insurance, mold, WDO, seawall, and sewer camera inspect
 [WhatsApp (786) 426-9418](https://wa.me/17864269418)
 [Email info@emprofessionalservices.net](mailto:info@emprofessionalservices.net)
 
-Serving South Florida since 2006 | 80,000+ inspections completed | Licensed GC | Civil Engineer | Certified Mold Assessor | Bilingual Team | Fast reports
+Licensed GC & Civil Engineer | Repair Cost Estimates Included | Phase I Environmental Site Assessment | Asbestos Surveys | Certified Mold Assessor | Commercial & Residential | Bilingual · Reports in 24 Hours
 
 ## Property Inspection Support for Every Step
 
